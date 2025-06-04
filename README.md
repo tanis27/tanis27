@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanis27
 - 👀 I’m interested in UX Design and Front End Development
-- 🌱 I’m currently learning JavaScript & Vibe Coding
+- 🌱 I’m currently learning React & Vibe Coding
 - 💞️ I’m looking to collaborate on small design projects or sprints
 - 📫 How to reach me: via LinkedIn! www.linkedin.com/in/tania-v-castro/
 
